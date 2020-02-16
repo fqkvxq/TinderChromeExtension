@@ -1,0 +1,2 @@
+# TinderChromeExtension
+TinderのChrome拡張機能
