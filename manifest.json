@@ -1,0 +1,11 @@
+{
+    "name": "TinderChromeExtension",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "description": "Chrome Extension fot Tinder",
+    "background": {
+        "scripts": [ "content.js" ],
+        // recommended
+        "persistent": false
+    }
+  }
